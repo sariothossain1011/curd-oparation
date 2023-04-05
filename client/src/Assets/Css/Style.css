@@ -1,0 +1,14 @@
+.ImgDiv{
+    margin-top:-30%;;
+    position: absolute;
+    font-size: 2px;
+}
+.ReadImage{
+    width: 30px;
+    height: 45px;
+    border-radius: 10%;
+}
+
+@media only screen and (max-width:767px){
+    
+}
